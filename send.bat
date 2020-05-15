@@ -1,0 +1,1 @@
+rsync -ru . pi@raspberrypi.local:~/rpi3d
